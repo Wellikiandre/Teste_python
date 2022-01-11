@@ -5,5 +5,6 @@ from exercicios.contagem_de_caracteres_return_dicionario import contarcaracter a
 
 print(s(4, 4))
 print(contar('Teste'))
+print(contar('Teste2'))
 
 
