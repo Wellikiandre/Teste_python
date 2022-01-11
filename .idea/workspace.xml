@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16bcca6f-f258-49ad-b08b-19eb9004cf42" name="Changes" comment="" />
+    <list default="true" id="16bcca6f-f258-49ad-b08b-19eb9004cf42" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -29,6 +34,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="230weKWQhDvRHIVKkqpPTXAXQmE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +50,7 @@
       <recent name="C:\Users\oi332799\Desktop\Python\Modulo\matematica" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pessoa">
+  <component name="RunManager" selected="Python.placa_grafica_tkinter">
     <configuration name="contagem_de_caracteres_return_dicionario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Modulo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,8 +179,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pessoa" />
         <item itemvalue="Python.placa_grafica_tkinter" />
+        <item itemvalue="Python.pessoa" />
         <item itemvalue="Python.executar_matematica" />
         <item itemvalue="Python.contagem_de_caracteres_return_dicionario" />
         <item itemvalue="Python.reg" />
@@ -191,6 +197,17 @@
       <updated>1640884407111</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
