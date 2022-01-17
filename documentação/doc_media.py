@@ -13,6 +13,8 @@
 #__dict__ obj.__dict__
 # del deleta atributo dinamico e complexo
 
+#docktest rundocktest
+
 
 
 
