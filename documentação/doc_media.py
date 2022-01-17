@@ -14,6 +14,10 @@
 # del deleta atributo dinamico e complexo
 
 #docktest rundocktest
+#python -m doctest xxx.py
+#python -m doctest -f xxx.py   (-f para na primeira falha)
+
+
 
 
 
