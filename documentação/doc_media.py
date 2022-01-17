@@ -1,3 +1,6 @@
+#Class começa com maiusculo
+
+
 #def metodo dentro da classe
 #atributos de dados
 #None (Null)
@@ -9,5 +12,7 @@
 #atributo dinamico cria um atributo e atributo complexo dander init (__xxx__)
 #__dict__ obj.__dict__
 # del deleta atributo dinamico e complexo
+
+
 
 
